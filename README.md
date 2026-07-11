@@ -1,2 +1,3 @@
-# unofficial-bs-mods
-Beat Saber mods compiled from various sources
+Unofficial prerelease builds for various Beat Saber mods
+
+[1.44.1/](/1.44.1) probably compatible with BS 1.42.0 - 1.44.1
