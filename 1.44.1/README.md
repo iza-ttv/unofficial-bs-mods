@@ -21,6 +21,9 @@
 > Contains a bug fix affecting JDFixer and BeatSaverUpdater.  
 > Also reverted https://github.com/Kylemc1413/SongCore/commit/93931975999f4d86f085b5945422eab36461522d
 
+### SquatToBegin
+> Built from https://github.com/kinsi55/BeatSaber_SquatToBegin/commit/a566aa0d5726b6249ea31faa498ee51b04775151
+
 
 ## Other mod links
 - [BeatLeader](https://github.com/BeatLeader/beatleader-mod/releases)
