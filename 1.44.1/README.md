@@ -14,7 +14,7 @@
 
 ### ScorePercentage
 > Built from https://github.com/Loloppe/ScorePercentage/commit/380ced3c69cb14f2da55a1fb1a644fe0aaf36ec6  
-> This is a fork of the old ScorePercentage mod. I've had problems with the newer one.
+> This is a fork of the old ScorePercentage mod. If you have SongPlayHistory, use the [official release](https://github.com/qe201020335/ScorePercentage/releases) instead.
 
 ### SongCore
 > Built from https://github.com/Kylemc1413/SongCore/commit/0a8d216afc821ae61c826d051909410dd5f3712f  
