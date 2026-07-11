@@ -16,9 +16,6 @@
 > Built from https://github.com/Loloppe/ScorePercentage/commit/380ced3c69cb14f2da55a1fb1a644fe0aaf36ec6  
 > This is a fork of the old ScorePercentage mod. I've had problems with the newer one.
 
-### SimpleClock (menu only)
-> Modified to show only in the menu. (commented out [lines 26-27](https://github.com/MadSquids/SimpleClock/blob/v1.0.1/SimpleClock/Plugin.cs#L26-L27))
-
 ### SongCore
 > Built from https://github.com/Kylemc1413/SongCore/commit/0a8d216afc821ae61c826d051909410dd5f3712f  
 > Contains a bug fix affecting JDFixer and BeatSaverUpdater.  
@@ -36,4 +33,5 @@
 - [PlaylistManager](https://github.com/ibillingsley/PlaylistManager/releases)
 - [ScoreSaber](https://github.com/ScoreSaber/pc-mod/releases)
 - [Vivify](https://github.com/Aeroluna/Vivify/releases)
+- [Wipbot](https://github.com/Danielduel/wipbot/releases)
 - [TheBlackParrot's plugin binaries](https://github.com/TheBlackParrot/stream_resource_dump/tree/main/beat_saber_stuff/custom_plugin_binaries/1.44.1)
