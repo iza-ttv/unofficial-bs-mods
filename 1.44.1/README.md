@@ -12,10 +12,6 @@
 > Built from [nicoco007/Heck/tree/7f5e725](https://github.com/nicoco007/Heck/tree/7f5e725381befc9eeb1a696c7e9a88e94ba33a88)  
 > This has a fix for compatibility with MappingExtensions, SongPlayHistory, ScorePercentage, etc.
 
-### ScorePercentage
-> Built from [Loloppe/ScorePercentage/tree/380ced3](https://github.com/Loloppe/ScorePercentage/tree/380ced3c69cb14f2da55a1fb1a644fe0aaf36ec6)  
-> This is a fork of the old ScorePercentage mod. If you have SongPlayHistory, use the [official release](https://github.com/qe201020335/ScorePercentage/releases) instead.
-
 ### SongCore
 > Built from [Kylemc1413/SongCore/tree/0a8d216](https://github.com/Kylemc1413/SongCore/tree/0a8d216afc821ae61c826d051909410dd5f3712f)  
 > Contains a bug fix affecting JDFixer and BeatSaverUpdater.  
@@ -33,9 +29,10 @@
 - [Heck/Noodle/Chroma](https://github.com/Aeroluna/Heck/releases)
 - [Naluluna mods](https://nalulululuna.fanbox.cc) (paid)
 - [NoteTweaks](https://git.gay/TheBlackParrot/BS_NoteTweaks/releases)
-- [ParticleOverdrive](https://github.com/ibillingsley/BeatSaber-ParticleOverdrive/releases)
 - [PlaylistManager](https://github.com/ibillingsley/PlaylistManager/releases)
 - [ScoreSaber](https://github.com/ScoreSaber/pc-mod/releases)
+- [ScorePercentage](https://github.com/qe201020335/ScorePercentage)
+- [SongPlayHistory](https://github.com/qe201020335/SongPlayHistory)
 - [Vivify](https://github.com/Aeroluna/Vivify/releases)
 - [Wipbot](https://github.com/Danielduel/wipbot/releases)
 - [TheBlackParrot's plugin binaries](https://github.com/TheBlackParrot/stream_resource_dump/tree/main/beat_saber_stuff/custom_plugin_binaries/1.44.1)
