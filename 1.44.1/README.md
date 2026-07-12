@@ -1,28 +1,29 @@
 ### BeatSaverVoting
-> Built from https://github.com/Top-Cat/BeatSaverVoting/commit/5616be4efe4ebf6103a19205b0980943b75f1c7d 
+> Built from [Top-Cat/BeatSaverVoting/tree/5616be4](https://github.com/Top-Cat/BeatSaverVoting/tree/5616be4efe4ebf6103a19205b0980943b75f1c7d)
 
 ### JDFixer
-> Built from https://github.com/Loloppe/JDFixer/commit/3fce6ce465911bdd5e8e00411bc4672c54a317f7 
+> Built from [Loloppe/JDFixer/tree/3fce6ce](https://github.com/Loloppe/JDFixer/tree/3fce6ce465911bdd5e8e00411bc4672c54a317f7)
 
 ### MappingExtensions
-> Built from https://github.com/Kuurama/MappingExtensions/commit/eabb719374c763c768955e90259e451c37e553f3  
+> Built from [Kuurama/MappingExtensions/tree/eabb719](https://github.com/Kuurama/MappingExtensions/tree/eabb719374c763c768955e90259e451c37e553f3)  
 > Use with NoodleExtensions below or newer! Might have bugs but it seems to work.
 
 ### NoodleExtensions
-> Built from https://github.com/nicoco007/Heck/commit/7f5e725381befc9eeb1a696c7e9a88e94ba33a88  
+> Built from [nicoco007/Heck/tree/7f5e725](https://github.com/nicoco007/Heck/tree/7f5e725381befc9eeb1a696c7e9a88e94ba33a88)  
 > This has a fix for compatibility with MappingExtensions, SongPlayHistory, ScorePercentage, etc.
 
 ### ScorePercentage
-> Built from https://github.com/Loloppe/ScorePercentage/commit/380ced3c69cb14f2da55a1fb1a644fe0aaf36ec6  
+> Built from [Loloppe/ScorePercentage/tree/380ced3](https://github.com/Loloppe/ScorePercentage/tree/380ced3c69cb14f2da55a1fb1a644fe0aaf36ec6)  
 > This is a fork of the old ScorePercentage mod. If you have SongPlayHistory, use the [official release](https://github.com/qe201020335/ScorePercentage/releases) instead.
 
 ### SongCore
-> Built from https://github.com/Kylemc1413/SongCore/commit/0a8d216afc821ae61c826d051909410dd5f3712f  
+> Built from [Kylemc1413/SongCore/tree/0a8d216](https://github.com/Kylemc1413/SongCore/tree/0a8d216afc821ae61c826d051909410dd5f3712f)  
 > Contains a bug fix affecting JDFixer and BeatSaverUpdater.  
-> Also reverted https://github.com/Kylemc1413/SongCore/commit/93931975999f4d86f085b5945422eab36461522d
+> Also reverted [commit 9393197](https://github.com/Kylemc1413/SongCore/commit/93931975999f4d86f085b5945422eab36461522d)
 
 ### SquatToBegin
-> Built from https://github.com/kinsi55/BeatSaber_SquatToBegin/commit/a566aa0d5726b6249ea31faa498ee51b04775151
+> Built from [kinsi55/BeatSaber_SquatToBegin/tree/a566aa0](https://github.com/kinsi55/BeatSaber_SquatToBegin/tree/a566aa0d5726b6249ea31faa498ee51b04775151)  
+> Also added fix for [issue 3](https://github.com/kinsi55/BeatSaber_SquatToBegin/issues/3)
 
 
 ## Other mod links
