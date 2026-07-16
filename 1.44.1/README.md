@@ -25,11 +25,11 @@
 ## Other mod links
 - [BeatLeader](https://github.com/BeatLeader/beatleader-mod/releases)
 - [BeatSaberPlus](https://github.com/hardcpp/BeatSaberPlus/releases)
-- [BeatSaberTheater](https://github.com/BeatSaberTheater/BeatSaberTheater/releases) (Cinema alternative)
-- [Heck/Noodle/Chroma](https://github.com/Aeroluna/Heck/releases)
-- [Naluluna mods](https://nalulululuna.fanbox.cc) (paid)
+- [BeatSaberTheater](https://github.com/BeatSaberTheater/BeatSaberTheater/releases) <sub>(Cinema alternative)</sub>
+- [Heck/Chroma](https://github.com/Aeroluna/Heck/releases) <sub>(requires CustomJSONData and LookupID)</sub>
+- [Naluluna mods](https://nalulululuna.fanbox.cc) <sub>(paid)</sub>
 - [NoteTweaks](https://git.gay/TheBlackParrot/BS_NoteTweaks/releases)
-- [PlaylistManager](https://github.com/ibillingsley/PlaylistManager/releases)
+- [PlaylistManager](https://github.com/ibillingsley/PlaylistManager/releases) <sub>(requires BeatSaberPlaylistsLib)</sub>
 - [ScoreSaber](https://github.com/ScoreSaber/pc-mod/releases)
 - [ScorePercentage](https://github.com/qe201020335/ScorePercentage)
 - [SongPlayHistory](https://github.com/qe201020335/SongPlayHistory)
