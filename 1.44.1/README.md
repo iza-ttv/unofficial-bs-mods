@@ -19,7 +19,7 @@
 
 ### SquatToBegin
 > Built from [kinsi55/BeatSaber_SquatToBegin/tree/a566aa0](https://github.com/kinsi55/BeatSaber_SquatToBegin/tree/a566aa0d5726b6249ea31faa498ee51b04775151)  
-> Also added fix for [issue 3](https://github.com/kinsi55/BeatSaber_SquatToBegin/issues/3)
+> Also merged fix for [issue 3](https://github.com/kinsi55/BeatSaber_SquatToBegin/issues/3)
 
 
 ## Other mod links
