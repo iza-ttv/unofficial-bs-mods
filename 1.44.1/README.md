@@ -21,6 +21,10 @@
 > Built from [kinsi55/BeatSaber_SquatToBegin/tree/a566aa0](https://github.com/kinsi55/BeatSaber_SquatToBegin/tree/a566aa0d5726b6249ea31faa498ee51b04775151)  
 > Also merged fix for [issue 3](https://github.com/kinsi55/BeatSaber_SquatToBegin/issues/3)
 
+### BeatSaberPlus ChatRequest
+> Built from [iza-ttv/BeatSaberPlus/tree/123899d](https://github.com/iza-ttv/BeatSaberPlus/tree/123899db63aaa3fc8bb927adf4f7cd69a3b30e54)  
+> Added an experimental "round-robin" queue option, and [some bugfixes](https://github.com/hardcpp/BeatSaberPlus/pull/45).  
+> Requires [BeatSaberPlus](https://github.com/hardcpp/BeatSaberPlus/releases) v6.4.5
 
 ## Other mod links
 - [BeatLeader](https://github.com/BeatLeader/beatleader-mod/releases)
@@ -29,7 +33,7 @@
 - [Heck/Chroma](https://github.com/Aeroluna/Heck/releases) <sub>(requires CustomJSONData and LookupID)</sub>
 - [Naluluna mods](https://nalulululuna.fanbox.cc) <sub>(paid)</sub>
 - [NoteTweaks](https://git.gay/TheBlackParrot/BS_NoteTweaks/releases)
-- [PlaylistManager](https://github.com/ibillingsley/PlaylistManager/releases) <sub>(requires BeatSaberPlaylistsLib)</sub>
+- [PlaylistManager](https://github.com/iza-ttv/PlaylistManager/releases) <sub>(requires BeatSaberPlaylistsLib)</sub>
 - [ScoreSaber](https://github.com/ScoreSaber/pc-mod/releases)
 - [ScorePercentage](https://github.com/qe201020335/ScorePercentage)
 - [SongPlayHistory](https://github.com/qe201020335/SongPlayHistory)
