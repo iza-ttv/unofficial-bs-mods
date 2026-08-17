@@ -12,6 +12,10 @@
 > Built from [nicoco007/Heck/tree/7f5e725](https://github.com/nicoco007/Heck/tree/7f5e725381befc9eeb1a696c7e9a88e94ba33a88)  
 > This has a fix for compatibility with MappingExtensions, SongPlayHistory, ScorePercentage, etc.
 
+### PlaylistManager
+> Built from [Kuurama/PlaylistManager/tree/da1ad17](https://github.com/Kuurama/PlaylistManager/tree/da1ad17d51d7b28063fbc482168459397670a63d)  
+> Requires BeatSaberPlaylistsLib
+
 ### SongCore
 > Built from [Kylemc1413/SongCore/tree/0a8d216](https://github.com/Kylemc1413/SongCore/tree/0a8d216afc821ae61c826d051909410dd5f3712f)  
 > Contains a bug fix affecting JDFixer and BeatSaverUpdater.  
@@ -33,7 +37,6 @@
 - [Heck/Chroma](https://github.com/Aeroluna/Heck/releases) <sub>(requires CustomJSONData and LookupID)</sub>
 - [Naluluna mods](https://nalulululuna.fanbox.cc) <sub>(paid)</sub>
 - [NoteTweaks](https://git.gay/TheBlackParrot/BS_NoteTweaks/releases)
-- [PlaylistManager](https://github.com/iza-ttv/PlaylistManager/releases) <sub>(requires BeatSaberPlaylistsLib)</sub>
 - [ScoreSaber](https://github.com/ScoreSaber/pc-mod/releases)
 - [ScorePercentage](https://github.com/qe201020335/ScorePercentage)
 - [SongPlayHistory](https://github.com/qe201020335/SongPlayHistory)
