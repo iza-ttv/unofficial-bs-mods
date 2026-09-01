@@ -4,6 +4,9 @@
 ### JDFixer
 > Built from [Loloppe/JDFixer/tree/3fce6ce](https://github.com/Loloppe/JDFixer/tree/3fce6ce465911bdd5e8e00411bc4672c54a317f7)
 
+### KeyRemapper
+> Built from [lyyQwQ/KeyRemapper/tree/8e4c11a](https://github.com/lyyQwQ/KeyRemapper/tree/8e4c11a9b4df1855ec409bc337a800d8167721fe)
+
 ### MappingExtensions
 > Built from [Kuurama/MappingExtensions/tree/eabb719](https://github.com/Kuurama/MappingExtensions/tree/eabb719374c763c768955e90259e451c37e553f3)  
 > Use with NoodleExtensions below or newer! Might have bugs but it seems to work.
